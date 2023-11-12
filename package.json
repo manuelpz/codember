@@ -1,15 +1,16 @@
 {
-    "name": "codember-manuelpz",
-    "version": "1.0.0",
-    "description": "Repo con retos de https://codember.dev/ por manuelpz",
-    "type": "module",
-    "scripts": {
-      "challenge01v1": "node 2022/challenge01/challenge01",
-      "challenge02v1": "node 2022/challenge02/challenge02",
-      "challenge03v1": "node 2022/challenge03/challenge03",
-      "challenge04v1": "node 2022/challenge04/challenge04",
-      "challenge01v2": "node 2023/challenge01/challenge01"
-    },
-    "author": "Manuel López Fernández",
-    "license": "MIT"
-  }
+  "name": "codember-manuelpz",
+  "version": "1.0.0",
+  "description": "Repo con retos de https://codember.dev/ por manuelpz",
+  "type": "module",
+  "scripts": {
+    "challenge01v1": "node 2022/challenge01/challenge01",
+    "challenge02v1": "node 2022/challenge02/challenge02",
+    "challenge03v1": "node 2022/challenge03/challenge03",
+    "challenge04v1": "node 2022/challenge04/challenge04",
+    "challenge01v2": "node 2023/challenge01/challenge01",
+    "challenge02v2": "node 2023/challenge02/challenge02"
+  },
+  "author": "Manuel López Fernández",
+  "license": "MIT"
+}
