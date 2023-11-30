@@ -9,7 +9,8 @@
     "challenge03v1": "node 2022/challenge03/challenge03",
     "challenge04v1": "node 2022/challenge04/challenge04",
     "challenge01v2": "node 2023/challenge01/challenge01",
-    "challenge02v2": "node 2023/challenge02/challenge02"
+    "challenge02v2": "node 2023/challenge02/challenge02",
+    "challenge03v2": "node 2023/challenge03/challenge03"
   },
   "author": "Manuel López Fernández",
   "license": "MIT"
