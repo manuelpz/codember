@@ -11,10 +11,9 @@ function obtenerDatosReales(datos) {
       return self.indexOf(letra) === index && self.lastIndexOf(letra) === index
     })
     if (letraUnica.join('') === checksum) {
-      console.log(letraUnica.join(''))
-      console.log(checksum)
       encontrados.push(checksum)
     }
   }
+  console.log(encontrados[32])
 }
 obtenerDatosReales(datos)
